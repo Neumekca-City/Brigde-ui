@@ -1,4 +1,3 @@
-# POA Bridge - User Interface (UI) Application
 
 [![Build Status](https://travis-ci.org/poanetwork/bridge-ui.svg?branch=master)](https://travis-ci.org/poanetwork/bridge-ui)
 [![Gitter](https://badges.gitter.im/poanetwork/poa-bridge.svg)](https://gitter.im/poanetwork/poa-bridge?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
@@ -211,3 +210,4 @@ See the [CONTRIBUTING](CONTRIBUTING.md) document for contribution, testing and p
 [![License: LGPL v3.0](https://img.shields.io/badge/License-LGPL%20v3-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0)
 
 This project is licensed under the GNU Lesser General Public License v3.0. See the [LICENSE](LICENSE) file for details.
+

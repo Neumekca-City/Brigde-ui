@@ -1,33 +1,33 @@
 $theme-name: 'core';
 
 // base colors
-$primary-color: #5c34a2;
-$primary-color-dark: #502d8d;
-$primary-color-darker: #45277a;
-$secondary-color: #60db97;
+$primary-color: #c5f7fc;
+$primary-color-dark: #6ef3ff;
+$primary-color-darker: #24818a;
+$secondary-color: #05bbc9;
 $secondary-color-dark: #64a231;
 $tertiary-color: #ffaa07;
 $danger-color: #f13662;
 $blue-color: #3ab9fe;
 
-$text-color: #333;
+$text-color: #24818a;
 $link-color: $primary-color;
 
 $gradient-color-1: $primary-color;
 $gradient-color-2: #7b5ab2;
 
 // main
-$main-background-color: #fff;
+$main-background-color: #05bbc9;
 $main-font-family: 'Nunito', sans-serif;
 
 // header
 $header-background-color: $primary-color;
 $header-logo-width: 180px;
-$header-logo-height: 26px;
+$header-logo-height: 60px;
 
 // header menu
 $header-menu-icon-color: $secondary-color;
-$header-menu-text-color: #fff;
+$header-menu-text-color: #1e6369;
 
 // daily quota
 $daily-quota-background: $primary-color-darker;
@@ -37,7 +37,7 @@ $daily-quota-progress: $secondary-color;
 $footer-background-color: $primary-color;
 $footer-logo-width: 130px;
 $footer-logo-height: 18px;
-$footer-text-color: #fff;
+$footer-text-color: #1e6369;
 
 // separator
 $separator-color: #e4e4e4;
@@ -46,23 +46,23 @@ $separator-color: #e4e4e4;
 $pattern-background-image: $base-images-path + '/themes/' + $theme-name + '/background/bg-pattern.svg';
 
 // social icons
-$social-icons-background-color: #fff;
+$social-icons-background-color: #1e6369;
 $social-icons-icon-color: $primary-color;
 
 // logo
-$logo-image: $base-images-path + '/themes/' + $theme-name + '/logos/logo.svg';
+$logo-image: $base-images-path + '/themes/' + $theme-name + '/logos/logo-zero.png';
 
 // home logo
-$home-logo-image: $base-images-path + '/themes/' + $theme-name + '/logos/logo-home.png';
-$home-logo-image-modal: $base-images-path + '/themes/' + $theme-name + '/logos/logo-home-modal.png';
+$home-logo-image: $base-images-path + '/themes/' + $theme-name + '/logos/ZERO.png';
+$home-logo-image-modal: $base-images-path + '/themes/' + $theme-name + '/logos/ZERO.png';
 $home-logo-width: 52px;
-$home-logo-height: 16px;
+$home-logo-height: 52px;
 
 // foreign logo
-$foreign-logo-image: $base-images-path + '/themes/' + $theme-name + '/logos/logo-foreign.svg';
-$foreign-logo-image-modal: $base-images-path + '/themes/' + $theme-name + '/logos/logo-foreign-modal.svg';
+$foreign-logo-image: $base-images-path + '/themes/' + $theme-name + '/logos/LEON.png';
+$foreign-logo-image-modal: $base-images-path + '/themes/' + $theme-name + '/logos/LEON.png';
 $foreign-logo-width: 54px;
-$foreign-logo-height: 11px;
+$foreign-logo-height: 54px;
 
 // buttons
 $button-background-color: $secondary-color;
@@ -86,7 +86,7 @@ $modal-background-color: #fff;
 $modal-overlay-background-color: rgba($primary-color-dark, 0.8);
 $modal-title-color: $primary-color;
 $modal-text-color: $text-color;
-$modal-link-color: $primary-color;
+$modal-link-color: #24818a;
 
 // mobile menu
 $mobile-menu-background-color: $primary-color-darker;

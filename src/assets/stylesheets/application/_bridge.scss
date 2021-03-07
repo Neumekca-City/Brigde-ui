@@ -127,7 +127,7 @@
             background-color: $bridge-gradient-start;
             .left-image {
                 background-color: $main-background-color;
-                background-image: url('#{ $bridge-image-left }');
+                //background-image: url('#{ $bridge-image-left }');
                 background-position: calc(100% - 5px) 5px;
                 background-repeat: no-repeat;
                 background-size: contain;
@@ -146,7 +146,7 @@
             background-color: $bridge-gradient-end;
             .right-image {
               background-color: $main-background-color;
-              background-image: url('#{ $bridge-image-right }');
+              //background-image: url('#{ $bridge-image-right }');
               background-position: 5px 5px;
               background-repeat: no-repeat;
               background-size: contain;
